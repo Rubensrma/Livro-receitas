@@ -1,6 +1,6 @@
 # Livro de receitas:man_cook:
 
-- Aula:Introdução ao Git e ao GitHub.
+- Aula: Introdução ao Git e ao GitHub.
 -  Iniciando o Git e criando um commit.
 - Digital Innovation One.
   @Perkles
